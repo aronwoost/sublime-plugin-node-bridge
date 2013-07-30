@@ -10,7 +10,7 @@ Then open the console in Sublime Text and hit
 
 ```
 view.run_command("node_bridge")
-``
+```
 
 ## License 
 
